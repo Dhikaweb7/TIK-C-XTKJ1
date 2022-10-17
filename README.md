@@ -83,4 +83,11 @@ Materi bahasa pemograman C
 - float
 - short
 - usigned
-    
+
+
+# Identifier
+
+adalah nama unik yang dapat kalian ingat yang kalian berikan kepada variabel atau fungsi.
+Identifier terdiri atas serangkaian karakter dengan aturan berikut :
+
+- Tidak boleh sama dengan Keyword dalam bahasa C
