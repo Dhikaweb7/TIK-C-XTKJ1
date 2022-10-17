@@ -1,6 +1,6 @@
 # TIK-C-XTKJ1
 
-Materi bahasa pemograman C
+Materi [bahasa pemograman C](bahasac.md)
 
 Mata pelajaran Teknik Informatika 2022
 [SMK RADEN PAKU](smk.md)
