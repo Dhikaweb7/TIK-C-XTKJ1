@@ -124,5 +124,15 @@ agar program yang kalian buat lebih efisien memori
 # Variabel
 
 adalah sebuah wadah untuk menyimpan suatu nilai.
-dalam bahasa C, variabel perlu dideklarasikan dengan memberikan tipe data
-dan idebtifiers sebelum
+dalam bahasa C, variabel perlu dideklarasikan dengan memberikan ``tipe data``
+dan ``identifiers`` sebelum dapat digunakan.
+contohnya :
+
+```c++
+
+<tipe_data><nama_variabel>;
+
+// pada saat deklarasi dapat juga memberi nilai awal
+
+<tipe_data><nama_variabel> = <nilai_awal>;
+
