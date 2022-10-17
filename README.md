@@ -106,3 +106,10 @@ pada bahasa C terdapat beberapa tipe data :
 |---        |---         |---            |---      |
 | int       | Bilangan bulat | 4 byte   | -2.1x10 pangkat 9 |
 | short    | Bilangan bulat | 2 byte | -32768 hingga 32767 |
+| long | Bilangan bulat | 8 byte | -9.2x10 pangkat 8 |
+| float | Bilangan rill | 4 byte | 1.2x10 pangkat 38 hingga 3.4x10 pangkat 38 |
+| double | Bilangan rill | 8 byte | 2.3x10 pangkat 308 hingga 1.7x10 pangkat 308 |
+| char | Karakter | 1 byte | -127 hingga 128
+
+Perhatikan bahwa rentang yang diberikan memungkinkan 
+nilai negatif hingga positif, atau disebut tipe data ``signed``
