@@ -97,3 +97,11 @@ Identifier terdiri atas serangkaian karakter dengan aturan berikut :
 # Tipe Data
 
 Komputer dapat mengelolah data yang beragam ,baik angka maupun karakter disimpan oleh komputer dalam bentuk biner
+program perlu mengetahui bagaimana bilangan biner itu dibaca sehingga terbuatlah tipe data, 
+yang memiliki nama tipe, jenis data, dan rentang yang berbeda. 
+pada bahasa C terdapat beberapa tipe data :
+
+  ---------- ------------ --------------- ---------
+| Nama Tipe | Jenis Data | Ukuran Memori | Rentang |
+ ----------   ----------   -------------   -------
+| int       | 
