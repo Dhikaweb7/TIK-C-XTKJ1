@@ -120,3 +120,9 @@ bilangan positif dengan rentang dari 0 hingga 2 ( jumlah bit ) - 1
 sebagai contoh saat mengolah data usia manusia dalam satuan tahun,
 kalian cukup menggunakan tipe data short yang memerlukan memori lebih kecil.
 agar program yang kalian buat lebih efisien memori
+
+# Variabel
+
+adalah sebuah wadah untuk menyimpan suatu nilai.
+dalam bahasa C, variabel perlu dideklarasikan dengan memberikan tipe data
+dan idebtifiers sebelum
