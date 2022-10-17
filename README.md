@@ -90,4 +90,5 @@ Materi bahasa pemograman C
 adalah nama unik yang dapat kalian ingat yang kalian berikan kepada variabel atau fungsi.
 Identifier terdiri atas serangkaian karakter dengan aturan berikut :
 
-- Tidak boleh sama dengan Keyword dalam bahasa C
+- Tidak boleh sama dengan Keyword dalam bahasa C.
+- Disusun dari kombinasi huruf(besar dan kecil), angka dan underscore ``_``
