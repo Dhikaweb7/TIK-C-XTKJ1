@@ -136,3 +136,24 @@ contohnya :
 
 <tipe_data><nama_variabel> = <nilai_awal>;
 
+```
+
+Contoh Deklarasi Variabel
+
+| Tipe Data | Identifier | Deklarasi | Deklarasi dengan Nilai Awal |
+|---        |---         |---        |---                          |
+| int       | totalHarga | int totalHarga | int totalHarga = 150000; |
+| short  | usia | short usia; | short usia = 29; |
+| long | jumlahAtom | long jumlahAtom; | long jumlahAtom = 9123151252214; |
+| float | jarak | float jarak; | float jarak = 2.28; |
+| double | galat | double galat; | double galat = 0.0000000001234; |
+| char | huruf | char huruf; | char huruf = 'a'; |
+
+Deklarasi secara ringkas misalnya dapat dilakukan sebagai berikut:
+
+```c
+
+   int panjang = 1, lebar = 2, luas;
+     float alas , sisi, volume;
+
+```
