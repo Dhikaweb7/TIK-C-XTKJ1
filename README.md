@@ -172,3 +172,9 @@ misalnya konstanta pi dapat dilakukan sebagai berikut:
   const float PI = 3.14;
 
 ```
+
+# Input / Output
+
+Untuk dapat membantu manusia, program harus bisa berkomunikasi.
+ada banyak cara untuk berkomunikasi lewat antarmuka pengguna ( user interface ),
+tetapi bentuk komunikasi dasar 
