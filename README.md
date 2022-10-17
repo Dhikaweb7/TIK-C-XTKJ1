@@ -1,7 +1,7 @@
 # TIK-C-XTKJ1
 Materi bahasa pemograman C
 
-# Membuat Progran Pertama bahasa C
+# Membuat Program Pertama bahasa C
   fungsi komentar adalah membantu kalian memahami kode program
   komentar satu / lebih dapat ditulis dengan ``/*`` dan diakhiri dengan ``*/``
   komentar satu baris dapat diketik dengan ``//``
