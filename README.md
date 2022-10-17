@@ -182,3 +182,21 @@ misalnya konstanta pi dapat dilakukan sebagai berikut:
 Untuk dapat membantu manusia, program harus bisa berkomunikasi.
 ada banyak cara untuk berkomunikasi lewat antarmuka pengguna ( user interface ),
 tetapi bentuk komunikasi dasar 
+
+```c
+
+#include <stdio.h>
+int main( ) {
+
+   char str[100];
+   int i;
+
+   printf( "Enter a value :");
+   scanf("%s %d", str, &i);
+
+   printf( "\nYou entered: %s %d ", str, i);
+
+   return 0;
+}
+
+```
