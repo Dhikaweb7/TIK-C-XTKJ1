@@ -1,5 +1,8 @@
 # TIK-C-XTKJ1
+
 Materi bahasa pemograman C
+Mata pelajaran Teknik Informatika 2022
+[SMK RADEN PAKU](smk.md)
 
 # Pengenalan bahasa C
   <a href="https://id.m.wikipedia.org/wiki/C_(bahasa_pemrograman)">Bahasa pemograman C</a>
