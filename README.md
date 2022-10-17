@@ -93,3 +93,7 @@ Identifier terdiri atas serangkaian karakter dengan aturan berikut :
 - Tidak boleh sama dengan Keyword dalam bahasa C.
 - Disusun dari kombinasi huruf (besar dan kecil), angka dan underscore ``_`` .
 - Bersifat Case-sensitive, atau sensitif terhadap huruf besar dan kecil contohnya , Aku dan aku adalah dua identifier yang berbeda.
+
+# Tipe Data
+
+Komputer dapat mengelolah data yang beragam ,baik angka mauoun karakter disimpan oleh komputer dalam bentuk biner
