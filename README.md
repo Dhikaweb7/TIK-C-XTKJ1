@@ -56,7 +56,7 @@ Mata pelajaran Teknik Informatika 2022
   
    
  - [auto](d.md)
- - double
+ - [double](double.md)
 - int
 - struct
 - break
