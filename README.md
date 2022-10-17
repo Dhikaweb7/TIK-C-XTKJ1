@@ -37,7 +37,7 @@ Mata pelajaran Teknik Informatika 2022
    # Komponen dalam bahasa C
 
 
-   - Kata kunci
+   - [Kata kunci](katakunci.md)
 
    - identifer
 
