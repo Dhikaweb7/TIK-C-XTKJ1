@@ -54,7 +54,7 @@ Mata pelajaran Teknik Informatika 2022
  terdapat 32 kata kunci standar pada bahasa C, yaitu :
   
    
- - auto
+ - [auto](d.md)
  - double
 - int
 - struct
