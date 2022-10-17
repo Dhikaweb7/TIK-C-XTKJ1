@@ -118,4 +118,5 @@ bilangan positif dengan rentang dari 0 hingga 2 ( jumlah bit ) - 1
 
 > GUNAKAN TIPE DATA SESUAI KEBUTUHAN KALIAN
 sebagai contoh saat mengolah data usia manusia dalam satuan tahun,
-kalian cukup
+kalian cukup menggunakan tipe data short yang memerlukan memori lebih kecil.
+agar program yang kalian buat lebih efisien memori
