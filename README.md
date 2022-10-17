@@ -17,7 +17,7 @@ Mata pelajaran Teknik Informatika 2022
    
    - <a href="https://www.bloodshed.net/">DEV C++</a>
        
-  karena lengkap dengan kompiler bahasa C dan C++ tanpa harus mendownload secara manual
+  karena lengkap dengan kompiler [bahasa C](c.md) dan [C++](cpp.md) tanpa harus mendownload secara manual
   
   untuk android dapat menggunakan aplikasi yang tersedia di playstore dengan kata kunci pencarian ``C++``
 # Membuat Program Pertama bahasa C
