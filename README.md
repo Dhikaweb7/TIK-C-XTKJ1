@@ -39,9 +39,9 @@ Mata pelajaran Teknik Informatika 2022
 
    - [Kata kunci](katakunci.md)
 
-   - identifer
+   - [identifer](iden.md)
 
-   - variabel
+   - [variabel](var.md)
 
    - tipe data
 
