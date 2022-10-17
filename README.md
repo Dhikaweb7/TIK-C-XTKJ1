@@ -105,3 +105,4 @@ pada bahasa C terdapat beberapa tipe data :
 | Nama Tipe | Jenis Data | Ukuran Memori | Rentang |
 |---        |---         |---            |---      |
 | int       | Bilangan bulat | 4 byte   | -2.1x10 pangkat 9 |
+| short    | Bilangan bulat | 2 byte | -32768 hingga 32767 |
