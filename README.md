@@ -163,3 +163,12 @@ Deklarasi secara ringkas misalnya dapat dilakukan sebagai berikut:
 konstanta adalah nilai yang tidak dapat dirubah berbeda dengan variabel dapat diubah ubah.
 apabila memaksa mengubah konstanta, komplikator akan memberikan pesan kepada kalian. 
 penggunaan konstanta yang lazim ialah yang menyimpanan nilai konstan seperti ``pi (π)`` ,`` rho (p)``, dan konstanta lainya yang lazim digunakan.
+
+Konstanta dapat di deklarasikan seperti variabel, dengan menambah kata kunci ``const`` didepan tipe data.
+misalnya konstanta pi dapat dilakukan sebagai berikut:
+
+```c
+  
+  const float PI = 3.14;
+
+```
