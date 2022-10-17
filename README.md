@@ -44,7 +44,7 @@ Mata pelajaran Teknik Informatika 2022
 
    - [variabel](var.md)
 
-   - tipe data
+   - [tipe data](tipe.md)
 
    - konstanta
 
