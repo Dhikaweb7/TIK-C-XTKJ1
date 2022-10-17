@@ -50,7 +50,7 @@ Mata pelajaran Teknik Informatika 2022
    # Kata kunci (Keyword)
 
 
- Merupakan kata yang memiliki makna khusus yang tidak dapat diubah dan digunakan sebagai identifier.
+ Merupakan kata yang memiliki makna khusus yang tidak dapat diubah dan digunakan sebagai [identifier](iden.md).
  terdapat 32 kata kunci standar pada bahasa C, yaitu :
   
    
