@@ -101,7 +101,7 @@ program perlu mengetahui bagaimana bilangan biner itu dibaca sehingga terbuatlah
 yang memiliki nama tipe, jenis data, dan rentang yang berbeda. 
 pada bahasa C terdapat beberapa tipe data :
 
-  ---------- ------------ --------------- ---------
+
 | Nama Tipe | Jenis Data | Ukuran Memori | Rentang |
- ----------   ----------   -------------   -------
-| int       | 
+|---        |---         |---            |---      |
+| int       | Bilangan bulat | 4 byte   | -2.1x10 pangkat 9 |
