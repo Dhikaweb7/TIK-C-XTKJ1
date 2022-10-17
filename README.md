@@ -31,3 +31,15 @@ Materi bahasa pemograman C
        return 0; // program berjalan dengan benar
       }
    ```
+   # Komponen dalam bahasa C
+
+
+   - Kata kunci
+
+   - identifer
+
+   - variabel
+
+   - tipe data
+
+   - konstanta
