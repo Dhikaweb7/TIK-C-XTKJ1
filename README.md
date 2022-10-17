@@ -157,3 +157,9 @@ Deklarasi secara ringkas misalnya dapat dilakukan sebagai berikut:
      float alas , sisi, volume;
 
 ```
+
+# Konstanta
+
+konstanta adalah nilai yang tidak dapat dirubah berbeda dengan variabel dapat diubah ubah.
+apabila memaksa mengubah konstanta, komplikator akan memberikan pesan kepada kalian. 
+penggunaan konstanta yang lazim ialah yang menyimpanan nilai konstan seperti ``pi (π)`` ,`` rho (p)``, dan konstanta lainya yang lazim digunakan.
