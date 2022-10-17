@@ -43,3 +43,44 @@ Materi bahasa pemograman C
    - tipe data
 
    - konstanta
+
+   # Kata kunci (Keyword)
+
+
+ Merupakan kata yang memiliki makna khusus yang tidak dapat diubah dan digunakan sebagai identifier.
+ terdapat 32 kata kunci standar pada bahasa C, yaitu :
+  
+   
+ - auto
+ - double
+- int
+- struct
+- break
+- else
+- long
+- switch
+- case
+- enum
+- register
+- typedef
+- char
+- extern
+- return
+- union
+- continue
+- for
+- signed
+- void
+- do
+- if
+- static
+- while
+- default
+- goto
+- sizeof
+- volatile
+- const
+- float
+- short
+- usigned
+    
