@@ -96,4 +96,4 @@ Identifier terdiri atas serangkaian karakter dengan aturan berikut :
 
 # Tipe Data
 
-Komputer dapat mengelolah data yang beragam ,baik angka mauoun karakter disimpan oleh komputer dalam bentuk biner
+Komputer dapat mengelolah data yang beragam ,baik angka maupun karakter disimpan oleh komputer dalam bentuk biner
