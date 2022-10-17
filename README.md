@@ -112,4 +112,10 @@ pada bahasa C terdapat beberapa tipe data :
 | char | Karakter | 1 byte | -127 hingga 128
 
 Perhatikan bahwa rentang yang diberikan memungkinkan 
-nilai negatif hingga positif, atau disebut tipe data ``signed``
+nilai negatif hingga positif, atau disebut tipe data ``signed``.
+Apabila kalian menambahkan kata kunci ``unsigned`` di depan tipe data, tipe data tersebut hanya menampung
+bilangan positif dengan rentang dari 0 hingga 2 ( jumlah bit ) - 1
+
+> GUNAKAN TIPE DATA SESUAI KEBUTUHAN KALIAN
+sebagai contoh saat mengolah data usia manusia dalam satuan tahun,
+kalian cukup
