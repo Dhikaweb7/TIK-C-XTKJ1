@@ -57,11 +57,11 @@ Mata pelajaran Teknik Informatika 2022
    
  - [auto](d.md)
  - [double](double.md)
-- int
-- struct
-- break
-- else
-- long
+- [int](int.md)
+- [struct](s.md)
+- [break](b.md)
+- [else](e.md)
+- [long](long.md)
 - switch
 - case
 - enum
