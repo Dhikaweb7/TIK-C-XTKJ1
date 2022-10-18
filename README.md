@@ -21,6 +21,12 @@ Mata pelajaran Teknik Informatika 2022
   karena lengkap dengan kompiler [bahasa C](c.md) dan [C++](cpp.md) tanpa harus mendownload secara manual
   
   untuk [android](android.md) dapat menggunakan aplikasi yang tersedia di playstore dengan kata kunci pencarian ``C++``
+  rekomendasi untuk android :
+
+  [cxx](cxx.md)
+
+  [termux](termux.md)
+
 ## Membuat Program Pertama bahasa C
   fungsi komentar adalah membantu kalian memahami kode program
   komentar satu / lebih dapat ditulis dengan ``/*`` dan diakhiri dengan ``*/``
