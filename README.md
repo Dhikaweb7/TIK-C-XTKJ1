@@ -46,7 +46,7 @@ Mata pelajaran Teknik Informatika 2022
 
    - [tipe data](tipe.md)
 
-   - konstanta
+   - [konstanta](kons.md)
 
    # Kata kunci (Keyword)
 
