@@ -5,7 +5,7 @@ Materi [bahasa pemograman C](bahasac.md)
 Mata pelajaran Teknik Informatika 2022
 [SMK RADEN PAKU](smk.md)
 
-# Pengenalan bahasa C
+## Pengenalan bahasa C
   <a href="https://id.m.wikipedia.org/wiki/C_(bahasa_pemrograman)">Bahasa pemograman C</a>
   ### Alat yang diperlukan
   
@@ -21,7 +21,7 @@ Mata pelajaran Teknik Informatika 2022
   karena lengkap dengan kompiler [bahasa C](c.md) dan [C++](cpp.md) tanpa harus mendownload secara manual
   
   untuk [android](android.md) dapat menggunakan aplikasi yang tersedia di playstore dengan kata kunci pencarian ``C++``
-# Membuat Program Pertama bahasa C
+## Membuat Program Pertama bahasa C
   fungsi komentar adalah membantu kalian memahami kode program
   komentar satu / lebih dapat ditulis dengan ``/*`` dan diakhiri dengan ``*/``
   komentar satu baris dapat diketik dengan ``//``
@@ -35,7 +35,7 @@ Mata pelajaran Teknik Informatika 2022
        return 0; // program berjalan dengan benar
       }
    ```
-   # Komponen dalam bahasa C
+   ## Komponen dalam bahasa C
 
 
    - [Kata kunci](katakunci.md)
@@ -48,7 +48,7 @@ Mata pelajaran Teknik Informatika 2022
 
    - [konstanta](kons.md)
 
-   # Kata kunci (Keyword)
+   ## Kata kunci (Keyword)
 
 
  Merupakan kata yang memiliki makna khusus yang tidak dapat diubah dan digunakan sebagai [identifier](iden.md).
@@ -89,7 +89,7 @@ Mata pelajaran Teknik Informatika 2022
 - usigned
 
 
-# Identifier
+## Identifier
 
 adalah nama unik yang dapat kalian ingat yang kalian berikan kepada variabel atau fungsi.
 Identifier terdiri atas serangkaian karakter dengan aturan berikut :
@@ -98,7 +98,7 @@ Identifier terdiri atas serangkaian karakter dengan aturan berikut :
 - Disusun dari kombinasi huruf (besar dan kecil), angka dan underscore ``_`` .
 - Bersifat Case-sensitive, atau sensitif terhadap huruf besar dan kecil contohnya , Aku dan aku adalah dua identifier yang berbeda.
 
-# Tipe Data
+## Tipe Data
 
 Komputer dapat mengelolah data yang beragam ,baik angka maupun karakter disimpan oleh komputer dalam bentuk biner
 program perlu mengetahui bagaimana bilangan biner itu dibaca sehingga terbuatlah tipe data, 
@@ -125,7 +125,7 @@ sebagai contoh saat mengolah data usia manusia dalam satuan tahun,
 kalian cukup menggunakan tipe data short yang memerlukan memori lebih kecil.
 agar program yang kalian buat lebih efisien memori
 
-# Variabel
+## Variabel
 
 adalah sebuah wadah untuk menyimpan suatu nilai.
 dalam bahasa C, variabel perlu dideklarasikan dengan memberikan ``tipe data``
@@ -162,7 +162,7 @@ Deklarasi secara ringkas misalnya dapat dilakukan sebagai berikut:
 
 ```
 
-# Konstanta
+## Konstanta
 
 [konstanta](kons.md) adalah nilai yang tidak dapat dirubah berbeda dengan variabel dapat diubah ubah.
 apabila memaksa mengubah konstanta, komplikator akan memberikan pesan kepada kalian. 
@@ -177,7 +177,7 @@ misalnya konstanta pi dapat dilakukan sebagai berikut:
 
 ```
 
-# Input / Output
+## Input / Output
 
 Untuk dapat membantu manusia, program harus bisa berkomunikasi.
 ada banyak cara untuk berkomunikasi lewat antarmuka pengguna ( user interface ),
