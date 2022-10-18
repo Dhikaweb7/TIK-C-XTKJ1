@@ -185,18 +185,15 @@ tetapi bentuk komunikasi dasar
 
 ```c
 
-#include <stdio.h>
-int main( ) {
-
-   char str[100];
-   int i;
-
-   printf( "Enter a value :");
-   scanf("%s %d", str, &i);
-
-   printf( "\nYou entered: %s %d ", str, i);
-
-   return 0;
+/* Program baca tulis 3 */
+#include<stdio.h>
+int main(){
+  int bilangan; // variabel bilangan ber tipe data integer
+  scanf("%d", &bilangan); /* masukan */
+  printf("Bilangan yang dibaca bernilai: "); // cetak masukan 
+  printf("%d.\n", bilangan); // cetak 
+  return 0;
 }
+   
 
 ```
